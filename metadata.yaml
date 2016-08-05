@@ -1,0 +1,32 @@
+_repo: -The-Ladies---A-Shining-Constellation-of-Wit-and-Beauty_8434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beck, L. Adams (Lily Adams)
+    aliases:
+    - Barrington, E.
+    - Beck, Lily Moresby Adams
+    - Beck, Eliza Louisa Moresby
+    deathdate: 1931
+    gutenberg_agent_id: '726'
+    url: http://www.gutenberg.org/2009/agents/726
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Louisa_Moresby
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Women -- Fiction'
+- GITenberg
+tableOfContents: The diurnal of Mrs. Elizabeth Pepys -- The mystery of Stella -- My
+  lady Mary -- The golden vanity -- The Walpole beauty -- A bluestocking at court
+  -- The Darcys of Rosings.
+title: '"The Ladies": A Shining Constellation of Wit and Beauty'
+url: http://www.gutenberg.org/ebooks/8434
